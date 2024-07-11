@@ -1,0 +1,22 @@
+h1{
+color: antiquewhite;
+background-color: aqua;
+font-size: 200;
+}
+h2{
+    color: beige;
+}
+strong{
+     background-color: bisque;
+     color: brown;
+}
+body{
+    background: url("pexels-photo-531767.jpeg");
+    background-repeat: no-repeat;
+}
+.special-heading{
+    color: azure;
+}
+#heading-style{
+    color: dimgrey;
+}

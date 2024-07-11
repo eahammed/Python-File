@@ -1,0 +1,18 @@
+h1{
+    color: blue;
+    background-color: beige;    font-size: 150;
+    }
+    h2{
+        color: blue;
+    }
+    strong{
+         background-color: bisque;
+         color: brown;
+    }
+   
+    .special-heading{
+        color: azure;
+    }
+    #heading-style{
+        color:dimgrey;
+    }
